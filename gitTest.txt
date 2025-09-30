@@ -1,2 +1,2 @@
 Hellow FURIt
-I am going to change the status of the git to modifie.new family.
+I am going to change the status of the git to modified.
