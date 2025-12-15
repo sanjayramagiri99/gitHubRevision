@@ -1,5 +1,5 @@
 Hellow FURIt
 I am going to change the status of the git to modified.
 get the Git skills back.
-7888888888888888888
-446236
+get the details of the changes.
+The latest changes that need to be added.
